@@ -5,20 +5,20 @@ dependencies: \
   ../../../cinder_0.8.5_mac/boost/boost/lexical_cast.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/detail/lcast_precision.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/array.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/assert.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/functional/hash_fwd.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/assert.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/functional/hash_fwd.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/cast.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/converter.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/conversion_traits.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/conversion_traits.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/meta.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/equal_to.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/comparison_op.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/numeric_op.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/apply_wrap.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/include_preprocessed.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/cat.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/stringize.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/comparison_op.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/numeric_op.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/apply_wrap.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/include_preprocessed.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/cat.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/stringize.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/int_float_mixture.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/int_float_mixture_enum.hpp \
@@ -38,16 +38,16 @@ dependencies: \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/bounds.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/bounds.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/numeric_cast_traits.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/cstdint.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/cstdint.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/numeric_cast_traits.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/type_traits/has_left_shift.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/has_binary_operator.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/type_traits/is_fundamental.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/bool_trait_def.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/template_arity_spec.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/bool_trait_undef.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/bool_trait_def.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/template_arity_spec.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/type_traits/detail/bool_trait_undef.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/type_traits/has_right_shift.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/math/special_functions/sign.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/math/tools/config.hpp \
@@ -62,10 +62,10 @@ dependencies: \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/aux_/contains_impl.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/find.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/remove_if.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/apply.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/mpl/apply.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/vector.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/limits/vector.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/inc.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/inc.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/vector/vector20.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/vector/vector10.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/mpl/vector/vector0.hpp \
@@ -122,42 +122,42 @@ dependencies: \
   ../../../cinder_0.8.5_mac/include/cinder/audio/PcmBuffer.h \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/cat.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/dec.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/config/config.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/control/if.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/fold_left.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/seq.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/size.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/tuple/eat.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/elem.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/enum.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/dec.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/config/config.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/control/if.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/fold_left.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/seq.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/size.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/tuple/eat.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/elem.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/enum.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/filter.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/control/expr_if.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/facilities/empty.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/tuple/elem.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/tuple/rem.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/first_n.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/control/expr_if.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/facilities/empty.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/tuple/elem.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/tuple/rem.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/first_n.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/fold_right.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/detail/auto_rec.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/detail/auto_rec.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/reverse.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each_i.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each_product.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each_i.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/for_each_product.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/insert.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/rest_n.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/inc.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/detail/split.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/arithmetic/inc.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/detail/split.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/pop_back.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/pop_front.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/push_back.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/push_back.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/push_front.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/remove.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/replace.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/subseq.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/to_array.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/to_list.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/comma.hpp \
-  /Users/mihailt/Desktop/cinder/experements/reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/paren.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/comma.hpp \
+  /Users/mihailt/Desktop/cinder/experements/Reactive/xcode/../../../cinder_0.8.5_mac/boost/boost/preprocessor/punctuation/paren.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/detail/binary_transform.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/to_tuple.hpp \
   ../../../cinder_0.8.5_mac/boost/boost/preprocessor/seq/transform.hpp \
